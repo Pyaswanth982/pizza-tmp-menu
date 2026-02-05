@@ -131,7 +131,7 @@ function Menu() {
 
                     ) :
                     (
-                        <p>Now Pizzas are Preparing. Please expect some delay !!</p>   
+                        <p>Now Pizzas are Preparing. Please expect some delay !!!</p>   
                     )
                 }
             </ul>

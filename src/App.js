@@ -14,7 +14,7 @@ function App() {
 function Header() {
     return (
         <div>
-            <h1 className="header"><strong><u>Pizza Mania</u></strong></h1>
+            <h1 className="header"><strong><u>Pizza Mania - 1</u></strong></h1>
         </div>
     )
 };

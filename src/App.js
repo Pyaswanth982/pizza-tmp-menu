@@ -133,7 +133,7 @@ function Menu() {
                     (
                         <p style = {{
                             color:"green"
-                        }}>Now Pizzas are Preparing. Please expect some delay !!!</p>  
+                        }}>Pizzas are Preparing. Please expect some delay !!!</p>  
                     )
                 }
             </ul>

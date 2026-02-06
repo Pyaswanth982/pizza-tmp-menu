@@ -119,6 +119,7 @@ function Menu() {
     return (
         <div className="menu">
             <h2 style={{ textAlign: "center", marginTop: "10px" }}><u>Our Menu</u></h2>
+            <p>Lists starting...1</p>
             <ul className="pizzas">
                 {/* Now using the Ternary Operator */}
                 {pizzaLength > 0 ?
@@ -206,6 +207,7 @@ function Footer() {
                 <>
                     <p>{new Date().toLocaleTimeString().slice(0, 9)} Shop will be open till {closeHours}:00. Enjoy Exploring !!</p>
                     <p>Footer branch is active now and also upstreamed</p>
+                    <p>Upstreamed</p>
                     <button className="order"><strong>Order</strong></button>
                 </>
             )}

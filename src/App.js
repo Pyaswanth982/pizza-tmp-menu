@@ -119,12 +119,8 @@ function Menu() {
     return (
         <div className="menu">
             <h2 style={{ textAlign: "center", marginTop: "10px" }}><u>Our Menu</u></h2>
-<<<<<<< HEAD
-            <p>Lists starting...1</p>
-=======
             <p>Lists starting...1123</p>
             <p>Hi, Good Morning</p>
->>>>>>> feature-footer
             <ul className="pizzas">
                 {/* Now using the Ternary Operator */}
                 {pizzaLength > 0 ?

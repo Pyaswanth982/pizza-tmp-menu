@@ -206,6 +206,7 @@ function Footer() {
                 <>
                     <p>{new Date().toLocaleTimeString().slice(0, 9)} Shop will be open till {closeHours}:00. Enjoy Exploring !!</p>
                     <p>Footer branch is active now and also upstreamed</p>
+                    <p>Upstreamed</p>
                     <button className="order"><strong>Order</strong></button>
                 </>
             )}
